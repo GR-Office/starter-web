@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Gareth  gramsay@s-plane.com  @twitter
 
 # THANKS
 

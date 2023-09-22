@@ -14,3 +14,7 @@ Sample website with plenty of files for demos to learn
 This is for deploymebnt
 
 ## How to Contribute
+
+### Copyright
+
+Git.Training2014

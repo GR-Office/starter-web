@@ -15,6 +15,8 @@ This is for deploymebnt
 
 ## How to Contribute
 
+Please fork this repository and the then issue pull requests for review. 
+
 ### Copyright
 
 Git.Training2014

@@ -1,7 +1,7 @@
 # Starter Web Repo
 
 This is a simple website showing how this works. 
-Adding a line for rebasing example, more chnages from myfeature branch too.
+Updating for an emergency fix after our stash.
 
 ## Introduction
 
